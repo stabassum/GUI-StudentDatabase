@@ -1,4 +1,4 @@
-# classProject
+# A Little GUI - A Little Java
 
 <h1>About</h1>
 
