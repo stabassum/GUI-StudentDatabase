@@ -35,7 +35,7 @@ public abstract class BaseForm implements ActionListener{
 		jfrm.setLocationRelativeTo(null);
 		jfrm.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		jfrm.setLayout(new FlowLayout());
-		jfrm.setTitle("Sumaiya's Final Project");	
+		jfrm.setTitle("Student Database");	
 		
 		
 		//Setup menus
