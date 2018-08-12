@@ -24,7 +24,7 @@ public class MyNewJrame extends BaseForm {
 	protected DefaultTableModel tblModel;
 	protected JScrollPane scrollPane;
 	
-	public MyNewJFrame()
+	public MyNewJrame()
 	{
 		//super();
 		this.jfrm.setSize(600, 500);
