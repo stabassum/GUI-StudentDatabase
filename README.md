@@ -8,7 +8,7 @@
 
 ## Contents & Description
 
-<h3>CUNY Student Database<.h3>
+<h3>CUNY Student Database</h3>
 
    <br>
    Project
